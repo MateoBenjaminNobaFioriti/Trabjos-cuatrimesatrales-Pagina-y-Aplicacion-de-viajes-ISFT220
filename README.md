@@ -1,0 +1,2 @@
+En este repositorio se encuentran los trbajos cuatrimestrales de la primera parte del año de las materias DSOO y Programación(La pagina y aplicción de viajes).
+Alumnos: Mateo Noba, Tobias Noba y Agustin Casal.
